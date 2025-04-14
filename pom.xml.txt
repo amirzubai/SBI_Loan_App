@@ -6,8 +6,8 @@
   <scope>runtime</scope>
   
   <repositories>
-     <repository>
-         <id>nexus</id>
+    // <repository>
+        // <id>nexus</id>
          <url>htpp://43.205.146.33:8081/repository/ashokit-remote-repository/</url>
      </repository>
   </repositories>
